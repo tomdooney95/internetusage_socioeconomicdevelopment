@@ -1,3 +1,4 @@
 #This Repository contains a custom ontology used in creating a knowledge graph using a Resource Description Framework (RDF).
 #The knowledge graph represents socioeconomic factors of countries, including the percentage of people using the internet from 
-#1996-2018. 
+#1996-2018. The aim of the knowledge graph is to investigate the impact that increased internet usage has on socioeconomic 
+#development
